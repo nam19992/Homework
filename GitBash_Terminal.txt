@@ -84,4 +84,4 @@ script.sh: line 5: cd: papka_1: No such file or directory
 1.json  1.txt  2.json  2.txt  3.txt  papka_2.1  papka_2.2  papka_2.3
 
 Пишет что No such file or directory, но все команды прописанные в документе завершились как и было задумано 
-На форумах пишут что ему какой-то библиотеки не хватает…..
+
